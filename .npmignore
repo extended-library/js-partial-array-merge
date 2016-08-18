@@ -4,10 +4,13 @@
 # Vagrant VM directory
 /.vagrant/
 
+# coverage directory (for development)
+/cov/
+
 # scripts directory (for development)
 /scripts/
 
-# source
+# source directory (for development)
 /src/
 
 # tests directory (for development)
