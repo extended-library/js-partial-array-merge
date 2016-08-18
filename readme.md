@@ -23,7 +23,7 @@ npm install js-partial-array-merge
 ## Usage
 
 For additional examples,
-check the **[test folder](https://github.com/jsstd/js-partial-array-merge/tree/master/tests)**
+check the **[test folder](https://github.com/jsopenstd/js-partial-array-merge/tree/master/tests)**
 
 ```javascript
 // TODO
